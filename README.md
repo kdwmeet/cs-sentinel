@@ -88,3 +88,5 @@ AI 모델은 분석 결과를 다음과 같은 JSON 구조로 반환합니다. �
 ```
 
 ## 7. 실행 화면
+<img width="708" height="829" alt="스크린샷 2026-02-10 113747" src="https://github.com/user-attachments/assets/41e04687-6d96-4cc4-bce4-efa59a44abf5" />
+
